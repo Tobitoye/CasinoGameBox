@@ -1,0 +1,7 @@
+Name          Start amount     Amount left with
+Tobi		 $1000		 $1100
+Toni		 $2000		 $1100
+goodnes		 $7000		 $0
+Demo		 $1000		 $700
+demo2		 $7000		 $7501
+demo3		 $3000		 $3800
